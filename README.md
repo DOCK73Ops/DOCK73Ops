@@ -42,7 +42,7 @@ If you're a PHP or Laravel developer — or you know one — I'd love to hear fr
 
 📧 [r.postma@dock73.com](mailto:r.postma@dock73.com)  
 🌐 [dock73.com](https://dock73.com)  
-💼 [linkedin.com/in/robbertpostma](https://linkedin.com/in/robbertpostma)
+💼 [linkedin.com/in/robbertderecruiter](https://www.linkedin.com/in/robbertderecruiter/)
 
 ---
 
